@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://backend-dlsz.onrender.com/";
 
 // Same mapping you used elsewhere
 const schoolCodeToId = {
