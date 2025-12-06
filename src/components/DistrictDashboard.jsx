@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-const API_BASE = "https://backend-dlsz.onrender.com/"; // your FastAPI backend
+const API_BASE = "https://backend-dlsz.onrender.com"; // your FastAPI backend
 
 export default function DistrictHeadDashboard() {
   // Filters that go to /students
