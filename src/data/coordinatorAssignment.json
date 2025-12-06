@@ -1,0 +1,57 @@
+[
+  {
+    "schoolCode": "SCH1001",
+    "userId": "COR_01",
+    "handles": [
+      { "class": 6, "sections": ["A", "B", "C", "D"] },
+      { "class": 7, "sections": ["A", "B", "C", "D"] },
+      { "class": 8, "sections": ["A", "B", "C", "D"] },
+      { "class": 9, "sections": ["A", "B", "C", "D"] },
+      { "class": 10, "sections": ["A", "B", "C", "D"] }
+    ]
+  },
+  {
+    "schoolCode": "SCH1002",
+    "userId": "COR_02",
+    "handles": [
+      { "class": 6, "sections": ["A", "B", "C", "D"] },
+      { "class": 7, "sections": ["A", "B", "C", "D"] },
+      { "class": 8, "sections": ["A", "B", "C", "D"] },
+      { "class": 9, "sections": ["A", "B", "C", "D"] },
+      { "class": 10, "sections": ["A", "B", "C", "D"] }
+    ]
+  },
+  {
+    "schoolCode": "SCH1003",
+    "userId": "COR_03",
+    "handles": [
+      { "class": 6, "sections": ["A", "B", "C", "D"] },
+      { "class": 7, "sections": ["A", "B", "C", "D"] },
+      { "class": 8, "sections": ["A", "B", "C", "D"] },
+      { "class": 9, "sections": ["A", "B", "C", "D"] },
+      { "class": 10, "sections": ["A", "B", "C", "D"] }
+    ]
+  },
+  {
+    "schoolCode": "SCH1004",
+    "userId": "COR_04",
+    "handles": [
+      { "class": 6, "sections": ["A", "B", "C", "D"] },
+      { "class": 7, "sections": ["A", "B", "C", "D"] },
+      { "class": 8, "sections": ["A", "B", "C", "D"] },
+      { "class": 9, "sections": ["A", "B", "C", "D"] },
+      { "class": 10, "sections": ["A", "B", "C", "D"] }
+    ]
+  },
+  {
+    "schoolCode": "SCH1005",
+    "userId": "COR_05",
+    "handles": [
+      { "class": 6, "sections": ["A", "B", "C", "D"] },
+      { "class": 7, "sections": ["A", "B", "C", "D"] },
+      { "class": 8, "sections": ["A", "B", "C", "D"] },
+      { "class": 9, "sections": ["A", "B", "C", "D"] },
+      { "class": 10, "sections": ["A", "B", "C", "D"] }
+    ]
+  }
+]

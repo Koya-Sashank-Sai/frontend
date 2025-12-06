@@ -1,0 +1,47 @@
+[
+  {
+    "schoolCode": "SCH1001",
+    "userId": "TCH_A_01",
+    "classes": [
+      { "class": 6, "section": "A" },
+      { "class": 7, "section": "C" }
+    ]
+  },
+  {
+    "schoolCode": "SCH1002",
+    "userId": "TCH_B_11",
+    "classes": [
+      { "class": 8, "section": "B" },
+      { "class": 9, "section": "A" }
+    ]
+  },
+  {
+    "schoolCode": "SCH1003",
+    "userId": "TCH_C_21",
+    "classes": [
+      { "class": 6, "section": "D" }
+    ]
+  },
+  {
+    "schoolCode": "SCH1004",
+    "userId": "TCH_D_31",
+    "classes": [
+      { "class": 7, "section": "A" },
+      { "class": 10, "section": "C" }
+    ]
+  },
+  {
+    "schoolCode": "SCH1005",
+    "userId": "TCH_E_41",
+    "classes": [
+      { "class": 9, "section": "B" }
+    ]
+  },
+  {
+    "schoolCode": "SCH1006",
+    "userId": "TCH_F_51",
+    "classes": [
+      { "class": 10, "section": "A" }
+    ]
+  }
+]

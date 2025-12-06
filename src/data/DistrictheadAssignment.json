@@ -1,0 +1,58 @@
+[
+  {
+    "districtCode": "D01",
+    "userId": "DH_001",
+    "schools": [
+      {
+        "schoolCode": "SCH1001",
+        "handles": [
+          { "class": 6, "sections": ["A", "B", "C", "D"] },
+          { "class": 7, "sections": ["A", "B", "C", "D"] },
+          { "class": 8, "sections": ["A", "B", "C", "D"] },
+          { "class": 9, "sections": ["A", "B", "C", "D"] },
+          { "class": 10, "sections": ["A", "B", "C", "D"] }
+        ]
+      },
+      {
+        "schoolCode": "SCH1002",
+        "handles": [
+          { "class": 6, "sections": ["A", "B", "C", "D"] },
+          { "class": 7, "sections": ["A", "B", "C", "D"] },
+          { "class": 8, "sections": ["A", "B", "C", "D"] },
+          { "class": 9, "sections": ["A", "B", "C", "D"] },
+          { "class": 10, "sections": ["A", "B", "C", "D"] }
+        ]
+      },
+      {
+        "schoolCode": "SCH1003",
+        "handles": [
+          { "class": 6, "sections": ["A", "B", "C", "D"] },
+          { "class": 7, "sections": ["A", "B", "C", "D"] },
+          { "class": 8, "sections": ["A", "B", "C", "D"] },
+          { "class": 9, "sections": ["A", "B", "C", "D"] },
+          { "class": 10, "sections": ["A", "B", "C", "D"] }
+        ]
+      },
+      {
+        "schoolCode": "SCH1004",
+        "handles": [
+          { "class": 6, "sections": ["A", "B", "C", "D"] },
+          { "class": 7, "sections": ["A", "B", "C", "D"] },
+          { "class": 8, "sections": ["A", "B", "C", "D"] },
+          { "class": 9, "sections": ["A", "B", "C", "D"] },
+          { "class": 10, "sections": ["A", "B", "C", "D"] }
+        ]
+      },
+      {
+        "schoolCode": "SCH1005",
+        "handles": [
+          { "class": 6, "sections": ["A", "B", "C", "D"] },
+          { "class": 7, "sections": ["A", "B", "C", "D"] },
+          { "class": 8, "sections": ["A", "B", "C", "D"] },
+          { "class": 9, "sections": ["A", "B", "C", "D"] },
+          { "class": 10, "sections": ["A", "B", "C", "D"] }
+        ]
+      }
+    ]
+  }
+]

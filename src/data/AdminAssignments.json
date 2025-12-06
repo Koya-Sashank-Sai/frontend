@@ -1,0 +1,85 @@
+[
+  {
+    "adminCode":"ADM001",
+    "userId": "ADMIN_1",
+    "schools": [
+      {
+        "schoolCode": "SCH1001",
+        "classes": [
+          { "class": 6, "section": "A" },
+          { "class": 6, "section": "B" },
+          { "class": 6, "section": "C" },
+          { "class": 7, "section": "A" },
+          { "class": 7, "section": "B" },
+          { "class": 7, "section": "C" },
+          { "class": 8, "section": "A" },
+          { "class": 8, "section": "B" },
+          { "class": 9, "section": "A" },
+          { "class": 9, "section": "B" },
+          { "class": 10, "section": "A" },
+          { "class": 10, "section": "B" }
+        ]
+      },
+      {
+        "schoolCode": "SCH1002",
+        "classes": [
+          { "class": 6, "section": "A" },
+          { "class": 6, "section": "B" },
+          { "class": 7, "section": "A" },
+          { "class": 7, "section": "B" },
+          { "class": 8, "section": "A" },
+          { "class": 8, "section": "B" },
+          { "class": 9, "section": "A" },
+          { "class": 9, "section": "B" },
+          { "class": 10, "section": "A" },
+          { "class": 10, "section": "B" }
+        ]
+      },
+      {
+        "schoolCode": "SCH1003",
+        "classes": [
+          { "class": 6, "section": "A" },
+          { "class": 6, "section": "B" },
+          { "class": 7, "section": "A" },
+          { "class": 7, "section": "B" },
+          { "class": 8, "section": "A" },
+          { "class": 8, "section": "B" },
+          { "class": 9, "section": "A" },
+          { "class": 9, "section": "B" },
+          { "class": 10, "section": "A" },
+          { "class": 10, "section": "B" }
+        ]
+      },
+      {
+        "schoolCode": "SCH1004",
+        "classes": [
+          { "class": 6, "section": "A" },
+          { "class": 6, "section": "B" },
+          { "class": 7, "section": "A" },
+          { "class": 7, "section": "B" },
+          { "class": 8, "section": "A" },
+          { "class": 8, "section": "B" },
+          { "class": 9, "section": "A" },
+          { "class": 9, "section": "B" },
+          { "class": 10, "section": "A" },
+          { "class": 10, "section": "B" }
+        ]
+      },
+      {
+        "schoolCode": "SCH1005",
+        "classes": [
+          { "class": 6, "section": "A" },
+          { "class": 6, "section": "B" },
+          { "class": 7, "section": "A" },
+          { "class": 7, "section": "B" },
+          { "class": 8, "section": "A" },
+          { "class": 8, "section": "B" },
+          { "class": 9, "section": "A" },
+          { "class": 9, "section": "B" },
+          { "class": 10, "section": "A" },
+          { "class": 10, "section": "B" }
+        ]
+      }
+    ]
+  }
+]
